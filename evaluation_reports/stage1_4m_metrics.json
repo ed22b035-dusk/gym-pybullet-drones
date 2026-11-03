@@ -1,0 +1,14 @@
+{
+    "episodes_evaluated": 10,
+    "mean_return": 470.85194653655265,
+    "std_return": 5.684341886080802e-14,
+    "mean_episode_length": 242.0,
+    "pos_rmse_x_m": 0.040076712343633636,
+    "pos_rmse_y_m": 0.021257956736234093,
+    "pos_rmse_z_m": 0.32167762704419106,
+    "total_pos_rmse_m": 0.32486079993999833,
+    "attitude_std_roll_deg": 0.5493354201316833,
+    "attitude_std_pitch_deg": 0.43878233432769775,
+    "attitude_std_yaw_deg": 0.27155202627182007,
+    "action_smoothness_delta": 0.007940270006656647
+}
